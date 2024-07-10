@@ -2,7 +2,7 @@
 
 
 ## Create Envirionment 
-`conda env create -f <path_to_yaml_file>`
+`conda env create -f hand_env.yml`
 
 ## Data Acquisition
 - RSNA Screening Mammography Breast Cancer Detection AI Challenge (2023) dataset(https://www.rsna.org/rsnai/ai-image-challenge/screening-mammography-breast-cancer-detection-ai-challenge).
