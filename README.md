@@ -5,7 +5,7 @@
 `conda env create -f hand_env.yml`
 
 ## Data Acquisition
-- RSNA Screening Mammography Breast Cancer Detection AI Challenge (2023) dataset(https://www.rsna.org/rsnai/ai-image-challenge/screening-mammography-breast-cancer-detection-ai-challenge).
+- RSNA Screening Mammography Breast Cancer Detection AI Challenge (2023) dataset (https://www.rsna.org/rsnai/ai-image-challenge/screening-mammography-breast-cancer-detection-ai-challenge).
 
 ## Data Preprocess (RSNA)
 - In ./dataset/ run `python3 ImageExtractor.py` to extract PNG and CSV files from DICOM metadata 
