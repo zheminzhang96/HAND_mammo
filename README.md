@@ -18,7 +18,9 @@
 `python3 train_mammo.py`
 
 ## Testing 
-If  you want to test the model which has been trained on the RSNA dataset
+If  you want to test the model which has been trained on the RSNA dataset 
+- `anomaly_evaluate_aux_GR.ipynb` for quantitative evaluation (AUC score)
+- `test_visualiza_aux_GR.ipynb` for qualatative evaluation (reconstruction)
 
 ## Citation
 If you use our code or models in your work or find it is helpful, please cite the corresponding paper:
