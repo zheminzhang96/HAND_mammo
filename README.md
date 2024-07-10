@@ -32,5 +32,5 @@ If you use our code or models in your work or find it is helpful, please cite th
 
 
 ## Reference
-1.[TransBTS](https://github.com/Rubics-Xuan/TransBTS.git)
+1. [TransBTS](https://github.com/Rubics-Xuan/TransBTS.git)
 
