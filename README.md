@@ -1,5 +1,8 @@
 # Unsupervised Hybrid framework for ANomaly Detection (HAND) - applied to Screening Mammogram
 
+## HAND Architecture
+![HAND](https://github.com/Wenxuan-1119/TransBTS/blob/main/figures/architecture_TransBTS.png "architecture_TransBTS")
+Architecture of HAND.
 
 ## Create Envirionment 
 `conda env create -f hand_env.yml`
