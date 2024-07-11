@@ -1,7 +1,7 @@
 # Unsupervised Hybrid framework for ANomaly Detection (HAND) - applied to Screening Mammogram
 
 ## HAND Architecture
-![HAND](ano_hybrid3.png "architecture_HAND")
+![HAND](figures/ano_hybrid3.png "architecture_HAND")
 Architecture of HAND.
 
 ## Create Envirionment 
